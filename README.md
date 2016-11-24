@@ -1,4 +1,4 @@
-# simple-c-webproxy
+# webprox-c
 
 Works suprisingly well, aside from certain graphic heavy websites. I've tested it with yahoo.com and it works despite slowing the browser down a bit (of course).
 
